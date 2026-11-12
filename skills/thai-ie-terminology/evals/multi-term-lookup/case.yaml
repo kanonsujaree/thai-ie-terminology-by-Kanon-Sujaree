@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: multi-term-lookup
+expected_outcome: |
+  A short table covering all 5 terms with a recommended Thai term, other variants found, type, and sources with confidence, plus a Sources list.

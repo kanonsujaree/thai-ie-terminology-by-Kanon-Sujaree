@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: variance-vs-variation
+expected_outcome: |
+  Two distinct Thai terms, explanation of the difference, with sources and a note about the near-synonym trap.
